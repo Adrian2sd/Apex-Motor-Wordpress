@@ -44,3 +44,29 @@ APEX MOTOR es una web temática sobre coches deportivos que incluye fichas de ve
 ### Contacto
 
 ![Página de contacto de APEX MOTOR](screenshots/contacto.png)
+
+## Demostración en vídeo
+
+Se ha incluido una grabación de pantalla con un recorrido completo por las principales secciones del sitio web.
+
+[Ver demostración de APEX MOTOR](demo/apex-motor-demo.mp4)
+
+## Seguridad
+
+El proyecto se ha desarrollado en un entorno local de laboratorio.
+
+Por motivos de seguridad, este repositorio público no incluye:
+
+- Credenciales de acceso.
+- Contraseñas.
+- Archivos `wp-config.php`.
+- Bases de datos o exportaciones `.sql`.
+- Copias de seguridad del sitio.
+- Direcciones IP públicas.
+- Información personal del entorno de desarrollo.
+- Tokens, claves API o sesiones.
+- Archivos de configuración que puedan contener información sensible.
+
+Las capturas y el vídeo publicados han sido revisados previamente para evitar la exposición accidental de información privada.
+
+Los datos mostrados en formularios, direcciones de correo y otros elementos del sitio son datos de demostración.

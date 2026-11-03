@@ -49,7 +49,7 @@ APEX MOTOR es una web temática sobre coches deportivos que incluye fichas de ve
 
 Se ha incluido una grabación de pantalla con un recorrido completo por las principales secciones del sitio web.
 
-[[Ver demostración de APEX MOTOR](demo/apex-motor-demo.mp4)](https://github.com/user-attachments/assets/8c019aaa-1766-4573-b20f-fd5a453a7e9d)
+https://github.com/user-attachments/assets/8c019aaa-1766-4573-b20f-fd5a453a7e9d
 
 ## Seguridad
 

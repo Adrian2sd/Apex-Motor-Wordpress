@@ -1,0 +1,42 @@
+# Configuración sensible de WordPress
+wp-config.php
+wp-config-*.php
+
+# Variables de entorno
+.env
+.env.*
+*.env
+
+# Bases de datos y copias
+*.sql
+*.sqlite
+*.db
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.bak
+*.backup
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs y editores
+.vscode/
+.idea/
+
+# Credenciales y claves
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
